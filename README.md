@@ -1,12 +1,13 @@
 # Co-Space
-# CO-SPACE
-# co-space
-# co_space
+
+Co-space provide all information you need about coworking spaces in indonesia.
 
 ## Team Members
 
-- Haekal: Project Leader / Full Stack Developer
-- Dzaky: Full Stack Developer / Front End
-- Ferry: Full Stack Developer
-- Angeline: UI/UX Designer
-- Nina: Investor / Tim Hore
+Name             | Role                 | Github Username
+---------------- | -------------------- | ------------------
+Muhammad Haekal  | Full Stack Developer | muhammadhaekal
+M Haidar Dzaky   | Full Stack Developer | mhaidardzaky
+Ferryal Muhammad | Full Stack Developer | ferryalmuhammad
+Nina Kartina     | Investor             | ninaninong
+Angeline Go      | UI/UX Designer       | angelinego
