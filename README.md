@@ -6,7 +6,7 @@
 ## Team Members
 
 - Haekal: Project Leader / Full Stack Developer
-- Dzaky: Full Stack Developer / Jadi Apa Prok Prok Prok
+- Dzaky: Full Stack Developer / Front End
 - Ferry: Full Stack Developer
 - Angeline: UI/UX Designer
 - Nina: Investor / Tim Hore
